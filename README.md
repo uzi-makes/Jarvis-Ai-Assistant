@@ -164,7 +164,7 @@ This project is licensed under the MIT License.
 
 **Uzaam**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/uzi-makes
 
 ---
 
