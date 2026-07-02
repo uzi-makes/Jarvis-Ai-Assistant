@@ -66,13 +66,13 @@ JARVIS-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/JARVIS-AI.git
+git clone https://github.com/uzi-makes/Jarvis-Ai-Assistant.git
 ```
 
 ### 2. Open the project
 
 ```bash
-cd JARVIS-AI
+cd Jarvis-Ai-Assistant
 ```
 
 ### 3. Create a virtual environment
